@@ -28,23 +28,27 @@ This portfolio showcases a few projects I have worked on.
 
 **Description:** In this project, I measured KPIs to gauge sales performances and used inferential statistics to reveal correlations between different customer and product characteristics.  
 **Technology:** R, tidyverse, ggplot2, lubridate.
+![Bookshop sales analytics picture](/docs/assets/Librairie.jpg)
 
 ### Water access in the world - WHO and FAO   
 
 **Access to data:** https://www.fao.org/faostat/en/#home | https://www.who.int/data/gho/data/indicators   
 **Description:** This data visualisation project highlights the countries most affected by lack of water through a story built from dashboards and worksheets.  
 **Technology:** Tableau, SQL.
+![Water access analysis picture](/docs/assets/Water.jpg)
 
 ### World poultry market analysis - FAO     
 
 **Access to data:** https://www.fao.org/faostat/en/#home | https://unstats.un.org/unsd/methodology/m49/overview/   
 **Description:** This project aimed to identify countries with the best export potential for poultry, using different clustering methods.  
 **Technology:** R, tidyverse, ggplot2, FactoMineR, factoextra, cluster, heatmaply.
+![Poultry market analysis picture](/docs/assets/Volaille.jpg)
 
 ### Education indicators - UNESCO  
 
 **Access to data:** https://github.com/iiepdev/HackingEDPlanningV2-Challenge6?utm_source=pocket_mylist  
 **Description:** This project, part of the Hacking EDplanning Hackathon organised by IIEP-UNESCO, aimed at improving educational indicators from Latin American countries disaggregated by socio-economic variables.  
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn.
+![EDHacking analysis picture](/docs/assets/Hackathon.jpg)
 
 
