@@ -1,16 +1,19 @@
-# valerieranaivo.github.io
+# Valérie Ranaivo
 ====================
 
-## Hello world!
+## Data analyst
 
-This is my first try at github!
+- Data cleaning
+- Data processing
+- Data exploration
+- Data visualisation
+- Data predictive modelling
+- Data interpretation
 
-My Github user page is at: 
-https://github.com/valerieranaivo/
+## About me
 
-My Github Pages repo can be found at:  
-https://github.com/valerieranaivo/valerieranaivo.github.io/
+Turning raw data into insights and visualisations that help to uncover new learning is my passion, and what drives me forward! 
+I hold a Bachelor's-level diploma in Data analytics from OpenClassrooms / the National Economics and Statistics School of France and I have several years experience supporting non-profit organisations in their decision processes. 
+This portfolio showcases a few projects I have worked on.
 
-And, soon, you can see my customized homepage at:
 
-http://valerieranaivo.github.io/
