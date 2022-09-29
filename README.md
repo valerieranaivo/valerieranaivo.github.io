@@ -19,7 +19,7 @@ This portfolio showcases a few projects I have worked on.
 
 ### Overview of undernourishment - FAO data  
 
-**Access to data:** (https://www.fao.org/faostat/en/#home)  
+**Access to data:** <https://www.fao.org/faostat/en/#home>  
 **Description:** This descriptive analysis uses data from 2017 on total population and population affected by undernourishment, as well as food availability and food aid values.  
 **Technology:** Python, Pandas, Numpy, Matplotlib.  
 ![Undernourishment analysis picture](/docs/assets/SousNutrition.jpg)
@@ -32,21 +32,21 @@ This portfolio showcases a few projects I have worked on.
 
 ### Water access in the world - WHO and FAO   
 
-**Access to data:** (https://www.fao.org/faostat/en/#home) | (https://www.who.int/data/gho/data/indicators)   
+**Access to data:** <https://www.fao.org/faostat/en/#home> | <https://www.who.int/data/gho/data/indicators>   
 **Description:** This data visualisation project highlights the countries most affected by lack of water through a story built from dashboards and worksheets.  
 **Technology:** Tableau, SQL.
 ![Water access analysis picture](/docs/assets/Water.jpg)
 
 ### World poultry market analysis - FAO     
 
-**Access to data:** (https://www.fao.org/faostat/en/#home) | (https://unstats.un.org/unsd/methodology/m49/overview/)   
+**Access to data:** <https://www.fao.org/faostat/en/#home> | <https://unstats.un.org/unsd/methodology/m49/overview/>   
 **Description:** This project aimed to identify countries with the best export potential for poultry, using different clustering methods.  
 **Technology:** R, tidyverse, ggplot2, FactoMineR, factoextra, cluster, heatmaply.
 ![Poultry market analysis picture](/docs/assets/Volaille.jpg)
 
 ### Education indicators - UNESCO  
 
-**Access to data:** (https://github.com/iiepdev/HackingEDPlanningV2-Challenge6?utm_source=pocket_mylist)  
+**Access to data:** <https://github.com/iiepdev/HackingEDPlanningV2-Challenge6?utm_source=pocket_mylist>  
 **Description:** This project, part of the Hacking EDplanning Hackathon organised by IIEP-UNESCO, aimed at improving educational indicators from Latin American countries disaggregated by socio-economic variables.  
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn.
 ![EDHacking analysis picture](/docs/assets/Hackathon.jpg)
