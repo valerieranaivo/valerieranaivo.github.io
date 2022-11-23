@@ -22,6 +22,7 @@ This portfolio showcases a few projects I have worked on.
 **Access to data:** https://pip.worldbank.org/home
 **Description:** This interactive dashboard provides a tool to visualise and compare populations in the world towards the $2.15 poverty line. 
 **Technology:** R, dplyr, ggplot2, shiny.
+![Poverty line analysis picture](/docs/assets/Poverty.jpg)
 
 ### Education indicators - UNESCO  
 
