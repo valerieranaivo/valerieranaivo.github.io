@@ -17,25 +17,18 @@ I hold a Bachelor's-level diploma in Data analytics from OpenClassrooms / the Na
 This portfolio showcases a few projects I have worked on.
 <br/><br/>
 
-### Overview of undernourishment - FAO data  
+### Poverty indicators - World Bank
 
-**Access to data:** <https://www.fao.org/faostat/en/#home>  
-**Description:** This descriptive analysis uses data from 2017 on total population and population affected by undernourishment, as well as food availability and food aid values.  
-**Technology:** Python, Pandas, Numpy, Matplotlib.  
-![Undernourishment analysis picture](/docs/assets/SousNutrition.jpg)
+**Access to data:** https://pip.worldbank.org/home
+**Description:** This interactive dashboard provides a tool to visualise and compare populations in the world towards the $2.15 poverty line. 
+**Technology:** R, dplyr, ggplot2, shiny.
 
-### Sales analytics - Bookshop  
+### Education indicators - UNESCO  
 
-**Description:** In this project, I measured KPIs to gauge sales performances and used inferential statistics to reveal correlations between different customer and product characteristics.  
-**Technology:** R, tidyverse, ggplot2, lubridate.
-![Bookshop sales analytics picture](/docs/assets/Librairie.jpg)
-
-### Water access in the world - WHO and FAO   
-
-**Access to data:** <https://www.fao.org/faostat/en/#home> | <https://www.who.int/data/gho/data/indicators>   
-**Description:** This data visualisation project highlights the countries most affected by lack of water through a story built from dashboards and worksheets.  
-**Technology:** Tableau, SQL.
-![Water access analysis picture](/docs/assets/Water.jpg)
+**Access to data:** <https://github.com/iiepdev/HackingEDPlanningV2-Challenge6?utm_source=pocket_mylist>  
+**Description:** This project, part of the Hacking EDplanning Hackathon organised by IIEP-UNESCO, aimed at improving educational indicators from Latin American countries disaggregated by socio-economic variables.  
+**Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn.
+![EDHacking analysis picture](/docs/assets/Hackathon.jpg)
 
 ### World poultry market analysis - FAO     
 
@@ -44,11 +37,26 @@ This portfolio showcases a few projects I have worked on.
 **Technology:** R, tidyverse, ggplot2, FactoMineR, factoextra, cluster, heatmaply.
 ![Poultry market analysis picture](/docs/assets/Volaille.jpg)
 
-### Education indicators - UNESCO  
+### Water access in the world - WHO and FAO   
 
-**Access to data:** <https://github.com/iiepdev/HackingEDPlanningV2-Challenge6?utm_source=pocket_mylist>  
-**Description:** This project, part of the Hacking EDplanning Hackathon organised by IIEP-UNESCO, aimed at improving educational indicators from Latin American countries disaggregated by socio-economic variables.  
-**Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn.
-![EDHacking analysis picture](/docs/assets/Hackathon.jpg)
+**Access to data:** <https://www.fao.org/faostat/en/#home> | <https://www.who.int/data/gho/data/indicators>   
+**Description:** This data visualisation project highlights the countries most affected by lack of water through a story built from dashboards and worksheets.  
+**Technology:** Tableau, SQL.
+![Water access analysis picture](/docs/assets/Water.jpg)
+
+### Sales analytics - Bookshop  
+
+**Description:** In this project, I measured KPIs to gauge sales performances and used inferential statistics to reveal correlations between different customer and product characteristics.  
+**Technology:** R, tidyverse, ggplot2, lubridate.
+![Bookshop sales analytics picture](/docs/assets/Librairie.jpg)
+### Overview of undernourishment - FAO data  
+
+**Access to data:** <https://www.fao.org/faostat/en/#home>  
+**Description:** This descriptive analysis uses data from 2017 on total population and population affected by undernourishment, as well as food availability and food aid values.  
+**Technology:** Python, Pandas, Numpy, Matplotlib.  
+![Undernourishment analysis picture](/docs/assets/SousNutrition.jpg)
+
+
+
 
 
